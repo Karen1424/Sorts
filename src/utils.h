@@ -23,6 +23,6 @@ namespace Utility {
         val1_ = val2_;
         val2_ = tmp;
     }
-}; /// end of namespase Utility
+}; /// end of namespace Utility
 
 #endif
