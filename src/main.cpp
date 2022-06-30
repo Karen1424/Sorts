@@ -11,7 +11,7 @@ int main() {
     //    return x < y;
     //});
     //Sorts::mergeSort(vec, 0, vec.size() - 1);
-    Sorts::heapSort(vec);
+    //Sorts::heapSort(vec);
     Utility::printElems(vec);
 
     return 0;
