@@ -78,5 +78,4 @@ namespace Sorts {
             SortPartitions::heapify(vec_, i, 0);
         }
     }
-
 }; /// end of namespace Sorts
