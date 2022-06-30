@@ -81,7 +81,6 @@ namespace SortPartitions {
             heapify(vec_, size_, largest);
         }
     }
-
 }; /// end of namespase SortPartitions
 
 #endif
