@@ -81,6 +81,6 @@ namespace SortPartitions {
             heapify(vec_, size_, largest);
         }
     }
-}; /// end of namespase SortPartitions
+}; /// end of namespace SortPartitions
 
 #endif
